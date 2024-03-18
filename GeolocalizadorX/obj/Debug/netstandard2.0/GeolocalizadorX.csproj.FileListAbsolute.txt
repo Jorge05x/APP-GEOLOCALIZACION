@@ -1,0 +1,15 @@
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\bin\Debug\netstandard2.0\GeolocalizadorX.deps.json
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\bin\Debug\netstandard2.0\GeolocalizadorX.dll
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\bin\Debug\netstandard2.0\ref\GeolocalizadorX.dll
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\bin\Debug\netstandard2.0\GeolocalizadorX.pdb
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\GeolocalizadorX.csproj.AssemblyReference.cache
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\GeolocalizadorX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\GeolocalizadorX.AssemblyInfoInputs.cache
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\GeolocalizadorX.AssemblyInfo.cs
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\GeolocalizadorX.csproj.CoreCompileInputs.cache
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\GeolocalizadorX.dll
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\refint\GeolocalizadorX.dll
+C:\Users\campu\source\repos\GeolocalizadorX\GeolocalizadorX\obj\Debug\netstandard2.0\GeolocalizadorX.pdb

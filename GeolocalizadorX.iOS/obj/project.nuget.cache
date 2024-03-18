@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "a5ALibSGH2lHVpEcyoYLUchb/BfwexcKgpIwxsRAEPJBniJ0oT4Gf/VZ2oqe2nf7v4YIIMh2IWiEPI0lJaLNFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\campu\\source\\repos\\GeolocalizadorX\\GeolocalizadorX.iOS\\GeolocalizadorX.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\campu\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\campu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\campu\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\campu\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\campu\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

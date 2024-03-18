@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GeolocalizadorX.MainPage">
+
+    <StackLayout BackgroundColor="#caf0f8">
+        <StackLayout Margin="5">
+
+            <Frame Margin="25,25,25,0" Padding="20" BackgroundColor="#48cae4" CornerRadius="30">
+                <Label Text="GEOLOCALIZADOR APP" HorizontalTextAlignment="Center" TextColor="White" FontSize="25" FontAttributes="Bold"/>
+            </Frame>
+
+            <Image Source="GeoLocalizacionImg.png"  Aspect="Fill"
+                HeightRequest="250"
+                WidthRequest="250"
+                HorizontalOptions="Center"
+                />
+            <Frame BackgroundColor="#48cae4" Padding="20,10,20,10" Margin="25,0,25,0" CornerRadius="30">
+            <Label x:Name="label"
+               Text="A continuación se mostraran lo que es la Latitud y la Longitud actual en la que te encuentras"
+               FontSize="18"
+               HorizontalTextAlignment="Center"
+               VerticalOptions="CenterAndExpand" 
+                   TextColor="White"
+                              />
+            </Frame>
+            <Frame BackgroundColor="#48cae4" Padding="25" Margin="25,15,25,0" CornerRadius="30">
+            <StackLayout>
+             <Frame Margin="0" Padding="0" BackgroundColor="#0096c7" CornerRadius="30">
+            <Label Text="Latitud: "
+               Padding="10"
+               Margin="1" 
+               HorizontalTextAlignment="Center"
+               VerticalOptions="CenterAndExpand" 
+               FontAttributes="Bold"
+               FontSize="20"
+               TextColor="White"
+               />
+             </Frame>
+                    <Label x:Name ="lat"
+               HorizontalTextAlignment="Center"
+               VerticalOptions="CenterAndExpand" 
+               FontAttributes="Bold"
+               FontSize="20"
+               TextColor="#1B1464"
+               />
+            <Frame Margin="0" Padding="0" BackgroundColor="#0096c7" CornerRadius="30">
+            <Label Text="Longitud:"
+                   Padding="10"
+                   Margin="1"
+                   HorizontalTextAlignment="Center"
+                   VerticalOptions="CenterAndExpand"
+                   FontAttributes="Bold"
+                   FontSize="20"
+                   TextColor="White"/>
+             </Frame>
+                    <Label x:Name ="lon"
+               HorizontalTextAlignment="Center"
+               VerticalOptions="CenterAndExpand"
+               FontAttributes="Bold"
+               FontSize="20" 
+               TextColor="#1B1464"/>
+
+            <Button Text="Mostrar Mapa" x:Name="VerMapa" Clicked="VerMapa_Clicked"
+                Padding="5"
+                TextColor="White"
+                FontSize="20"
+                FontAttributes="Bold"
+                BackgroundColor="#023e8a"
+                BorderWidth="1"
+                CornerRadius="30"
+                WidthRequest="150"
+                HeightRequest="75"
+                BorderColor="#03045e"
+        />
+            </StackLayout>
+            </Frame>
+        </StackLayout>
+    </StackLayout>
+
+
+</ContentPage>
